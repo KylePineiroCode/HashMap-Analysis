@@ -1,0 +1,24 @@
+Kyle Pineiro
+Default Results:
+Time: 1702008464156
+Size: 9238
+Number of Nodes: 9238
+Load Factor: 1.0
+The number of nodes in the hashing algorithm for program 11 is 100019, and 200013
+
+Kyle Pineiro
+Capacity 10,000 Results:
+Time: 1702008464268
+Size: 9238
+Number of Nodes: 9238
+Load Factor: 1.0
+The number of nodes in the hashing algorithm for program 11 is 100019, and 200013
+
+Kyle Pineiro
+Capacity 20,000 Results:
+Time: 1702008464325
+Size: 9238
+Number of Nodes: 9238
+Load Factor: 1.0
+The number of nodes in the hashing algorithm for program 11 is 100019, and 200013
+
